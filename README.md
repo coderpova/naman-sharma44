@@ -1,2 +1,20 @@
 # naman-sharma44
 this is my first repository
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @media (min-width: 1024px) {
+            body{
+                background-color: red;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div style="background-color: blue;"> BOX A</div>
+</body>
+</html>
